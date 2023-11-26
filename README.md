@@ -1,5 +1,7 @@
 # Shop-Java-System
 
+## Description
+
 The Shop System is a project I completed as part of my University Programming 2 module coursework.
 
 This Tool Hire Management System models and manages the operations of a shop that rents out various tools and equipment for one-off usage.
@@ -13,3 +15,15 @@ Key Java concepts and skills demonstrated in the project include:
 6. **Input Validation**: Applied input validation techniques to ensure data corectness and consistency.
 
 This project not only reinforced my Java programming skills but also allowed me to apply these concepts to real-world scenarios, providing a strong foundation for future software development endeavors.
+
+## Installation
+
+N/A
+
+## Usage
+
+![alt text]()
+
+## Credits
+
+N/A
